@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent">
+
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val1" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val1txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val2" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val2txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val3" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val3txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val4" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val4txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val5" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val5txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val6" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val6txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val7" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val7txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val8" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val8txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val9" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val9txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val10" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val10txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val11" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val11txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val12" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val12txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val13" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val13txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val14" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val14txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val15" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val15txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val16" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val16txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val17" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val17txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val18" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val18txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val19" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val19txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:text="val120" android:textAlignment="textStart" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/val20txt" style="@style/inputtextbox"/>
+    </LinearLayout>
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>
